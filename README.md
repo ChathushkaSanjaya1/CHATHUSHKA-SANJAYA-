@@ -1,5 +1,5 @@
 # Chathushka Sanjaya 🚀
-**IT Strategist | Software Engineer | [cite_start]Postgraduate Student at Kingston University** 
+**IT Strategist | Software Engineer | Postgraduate Student at Kingston University** 
 
 ---
 
