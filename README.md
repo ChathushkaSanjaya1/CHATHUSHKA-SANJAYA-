@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate and goal-oriented individual with a strong foundation in IT and hands-on experience in both academic and practical settings. Currently, I am pursuing an **MSc in IT & Strategic Innovation** at **Kingston University, UK** , building upon my background as a **Software Engineering graduate**. I am committed to continuous learning and excellence, whether working independently or as part of a dynamic team.
+I am a passionate and goal-oriented individual with a strong foundation in IT and hands-on experience in both academic and practical settings. Currently, I am pursuing an **MSc in IT & Strategic Innovation** at **Kingston University, UK** , building upon my background as a **Software Engineering graduate**. I am committed to continuous learning and excellence, whether working independently or as part of a dynamic team. 
 
 ## 🎓 Education
 * **MSc in IT & Strategic Innovation** | Kingston University, UK (2025 – Present) 
