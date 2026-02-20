@@ -4,13 +4,13 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate and goal-oriented individual with a strong foundation in IT and hands-on experience in both academic and practical settings. [cite_start]Currently, I am pursuing an **MSc in IT & Strategic Innovation** at **Kingston University, UK** , building upon my background as a **Software Engineering graduate**. [cite_start]I am committed to continuous learning and excellence, whether working independently or as part of a dynamic team.
+I am a passionate and goal-oriented individual with a strong foundation in IT and hands-on experience in both academic and practical settings. Currently, I am pursuing an **MSc in IT & Strategic Innovation** at **Kingston University, UK** , building upon my background as a **Software Engineering graduate**. I am committed to continuous learning and excellence, whether working independently or as part of a dynamic team.
 
 ## 🎓 Education
-* **MSc in IT & Strategic Innovation** | [cite_start]Kingston University, UK (2025 – Present) 
+* **MSc in IT & Strategic Innovation** | Kingston University, UK (2025 – Present) 
 * **BEng (Hons) Software Engineering** | London Metropolitan University, UK (2024 – 2025) 
     * *Awarded Second Upper Class Honours* 
-* **Pearson BTEC Level 5 HND in Computing (Software Engineering)** | [cite_start]Merit 
+* **Pearson BTEC Level 5 HND in Computing (Software Engineering)** | Merit 
 
 ## 🛠 Technical Skills & Expertise
 * **Languages:** Python, Java, C#, JavaScript, PHP, ASP.NET
@@ -25,14 +25,6 @@ I am a passionate and goal-oriented individual with a strong foundation in IT an
 * **GasByGas:** An online gas distribution and delivery system managed via Agile (Scrum) methodologies.
 * **AI-Based Book System:** An online ordering system featuring AI-driven personal recommendations.
 * **Real-time Booking Hub:** A dedicated tourism portal for Pearl Heritage Travels.
-
-## 🔬 Research & Analysis
-* **Big Data Ethics:** Analyzed legal and ethical considerations in big data performance metrics for platforms like YouTube and Facebook.
-* **Operational Efficiency:** Investigated Big Data technologies to enhance efficiency within the financial industry (Commercial Bank).
-
-## 🏆 Awards & Activities
-* **ThinkFest 2025:** Awarded at ESOFT Metro Campus, Kurunegala[cite: 32].
-* **Academic Leadership:** Served as an Academic Team Member for the Student Association (2023–2024).
 
 ---
 
